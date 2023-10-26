@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LakshaySaraf
+- 👋 Hi, I’m @LakshaySaraf Lakshay Agarwal
 - 👀 I’m interested in Web Development and Software Enginnering Skills.
 - 🌱 I’m currently learning MERN Stack
 
